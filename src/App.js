@@ -12,7 +12,6 @@ function App() {
         <Header></Header>
         <MoviesGrid></MoviesGrid>
       </div>
-
         <Footer></Footer>
     </div>
   );
